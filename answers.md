@@ -33,7 +33,7 @@ I specialize in programming languages like **Python**, **Java**, and **Scala**, 
 
 ### Convert Number to Digits
 
-```python
+
 def num_to_dgt(number):
     digits = []
     number = abs(number)  # Handle negative numbers
@@ -43,18 +43,18 @@ def num_to_dgt(number):
         number //= 10
         
     return digits
-```
+
 
 ### Remove Duplicates from an Array
 
-```python
+
 def remove_duplicates(arr):
     return list(set(arr))
-```
+
 
 ### Convert Text to Pig Latin
 
-```python
+
 def to_pig_latin(text):
     words = text.split()
     pig_latin_words = []
@@ -64,11 +64,11 @@ def to_pig_latin(text):
         pig_latin_words.append(pig_latin_word)
     
     return ' '.join(pig_latin_words)
-```
+
 
 ### Convert Text from Pig Latin to English
 
-```python
+
 def from_pig_latin(text):
     words = text.split()
     english_words = []
@@ -78,11 +78,11 @@ def from_pig_latin(text):
         english_words.append(english_word)
     
     return ' '.join(english_words)
-```
+
 
 ### Rotate List by `k` Elements
 
-```python
+
 def rotate_list(arr, k):
     n = len(arr)
     k = k % n  # To handle cases where k is larger than the list size
@@ -91,5 +91,5 @@ def rotate_list(arr, k):
 
 arr = [1, 2, 3, 4, 5, 6]
 rotate_list(arr, 2)
-```
+
 
