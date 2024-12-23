@@ -17,4 +17,6 @@ I specialize in programming languages like Python and Java, Big Data tools like 
 
 2.Yes i do own a personal computer
 
-3.I use windows as main os and use Ubuntu in WSL for running Gazebo.I have installed python,java and scala and i use IDE like VScode,Pycharm,intellij Idea,eclipse MySQl workBench etc
+3.I use windows as main os and use Ubuntu in WSL for running Gazebo.I have installed python,java and scala and i use IDE like VScode,Pycharm,intellij Idea,eclipse MySQl workBench etc .And i use Anaconda too
+
+4.
